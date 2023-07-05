@@ -1,0 +1,15 @@
+D:\projects\.net\SocialMediaClean\Application\obj\Debug\net6.0\SocialMediaClean.Application.csproj.AssemblyReference.cache
+D:\projects\.net\SocialMediaClean\Application\obj\Debug\net6.0\SocialMediaClean.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\.net\SocialMediaClean\Application\obj\Debug\net6.0\SocialMediaClean.Application.AssemblyInfoInputs.cache
+D:\projects\.net\SocialMediaClean\Application\obj\Debug\net6.0\SocialMediaClean.Application.AssemblyInfo.cs
+D:\projects\.net\SocialMediaClean\Application\obj\Debug\net6.0\SocialMediaClean.Application.csproj.CoreCompileInputs.cache
+D:\projects\.net\SocialMediaClean\Application\bin\Debug\net6.0\SocialMediaClean.Application.deps.json
+D:\projects\.net\SocialMediaClean\Application\bin\Debug\net6.0\SocialMediaClean.Application.dll
+D:\projects\.net\SocialMediaClean\Application\bin\Debug\net6.0\ref\SocialMediaClean.Application.dll
+D:\projects\.net\SocialMediaClean\Application\bin\Debug\net6.0\SocialMediaClean.Application.pdb
+D:\projects\.net\SocialMediaClean\Application\bin\Debug\net6.0\SocialMediaClean.Domain.dll
+D:\projects\.net\SocialMediaClean\Application\bin\Debug\net6.0\SocialMediaClean.Domain.pdb
+D:\projects\.net\SocialMediaClean\Application\obj\Debug\net6.0\SocialMediaClean.Application.csproj.CopyComplete
+D:\projects\.net\SocialMediaClean\Application\obj\Debug\net6.0\SocialMediaClean.Application.dll
+D:\projects\.net\SocialMediaClean\Application\obj\Debug\net6.0\ref\SocialMediaClean.Application.dll
+D:\projects\.net\SocialMediaClean\Application\obj\Debug\net6.0\SocialMediaClean.Application.pdb

@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6a3b375b-eeb3-4ecb-a5b3-154c1c4e4522": {
+      "ProjectGuid": "6a3b375b-eeb3-4ecb-a5b3-154c1c4e4522",
+      "DisplayName": "SocialMediaClean.Domain",
+      "ColorIndex": 0
+    },
+    "1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe": {
+      "ProjectGuid": "1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe",
+      "DisplayName": "SocialMediaClean.Application",
+      "ColorIndex": 1
+    },
+    "3a15cfe7-5db8-4154-b55e-f96cb5a90744": {
+      "ProjectGuid": "3a15cfe7-5db8-4154-b55e-f96cb5a90744",
+      "DisplayName": "SocialMediaClean.Infrastructure",
+      "ColorIndex": 2
+    },
+    "26f9c9d0-6e18-43e7-ab8d-ce7d38c3392f": {
+      "ProjectGuid": "26f9c9d0-6e18-43e7-ab8d-ce7d38c3392f",
+      "DisplayName": "SocialMediaClean.Presentation",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

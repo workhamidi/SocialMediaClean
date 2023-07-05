@@ -1,0 +1,12 @@
+D:\projects\.net\SocialMediaClean\Domain\bin\Debug\net6.0\SocialMediaClean.Domain.deps.json
+D:\projects\.net\SocialMediaClean\Domain\bin\Debug\net6.0\SocialMediaClean.Domain.dll
+D:\projects\.net\SocialMediaClean\Domain\bin\Debug\net6.0\ref\SocialMediaClean.Domain.dll
+D:\projects\.net\SocialMediaClean\Domain\bin\Debug\net6.0\SocialMediaClean.Domain.pdb
+D:\projects\.net\SocialMediaClean\Domain\obj\Debug\net6.0\SocialMediaClean.Domain.csproj.AssemblyReference.cache
+D:\projects\.net\SocialMediaClean\Domain\obj\Debug\net6.0\SocialMediaClean.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\.net\SocialMediaClean\Domain\obj\Debug\net6.0\SocialMediaClean.Domain.AssemblyInfoInputs.cache
+D:\projects\.net\SocialMediaClean\Domain\obj\Debug\net6.0\SocialMediaClean.Domain.AssemblyInfo.cs
+D:\projects\.net\SocialMediaClean\Domain\obj\Debug\net6.0\SocialMediaClean.Domain.csproj.CoreCompileInputs.cache
+D:\projects\.net\SocialMediaClean\Domain\obj\Debug\net6.0\SocialMediaClean.Domain.dll
+D:\projects\.net\SocialMediaClean\Domain\obj\Debug\net6.0\ref\SocialMediaClean.Domain.dll
+D:\projects\.net\SocialMediaClean\Domain\obj\Debug\net6.0\SocialMediaClean.Domain.pdb

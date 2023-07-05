@@ -1,0 +1,259 @@
+﻿++Solution 'SocialMediaClean' ‎(4 of 4 projects)
+i:{00000000-0000-0000-0000-000000000000}:SocialMediaClean.sln
+++SocialMediaClean.Application
+i:{00000000-0000-0000-0000-000000000000}:SocialMediaClean.Application
+i:{3a15cfe7-5db8-4154-b55e-f96cb5a90744}:d:\projects\.net\socialmediaclean\application\bin\debug\net6.0\socialmediaclean.application.dll
+i:{26f9c9d0-6e18-43e7-ab8d-ce7d38c3392f}:d:\projects\.net\socialmediaclean\application\socialmediaclean.application.csproj
+++Dependencies
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:>218
+i:{6a3b375b-eeb3-4ecb-a5b3-154c1c4e4522}:>216
+i:{3a15cfe7-5db8-4154-b55e-f96cb5a90744}:>217
+i:{26f9c9d0-6e18-43e7-ab8d-ce7d38c3392f}:>281
+++Analyzers
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:analyzers
+i:{6a3b375b-eeb3-4ecb-a5b3-154c1c4e4522}:analyzers
+i:{3a15cfe7-5db8-4154-b55e-f96cb5a90744}:analyzers
+i:{26f9c9d0-6e18-43e7-ab8d-ce7d38c3392f}:analyzers
+++Frameworks
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:frameworks
+i:{6a3b375b-eeb3-4ecb-a5b3-154c1c4e4522}:frameworks
+i:{3a15cfe7-5db8-4154-b55e-f96cb5a90744}:frameworks
+i:{26f9c9d0-6e18-43e7-ab8d-ce7d38c3392f}:frameworks
+++Packages
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:packages
+i:{6a3b375b-eeb3-4ecb-a5b3-154c1c4e4522}:packages
+i:{3a15cfe7-5db8-4154-b55e-f96cb5a90744}:packages
+i:{26f9c9d0-6e18-43e7-ab8d-ce7d38c3392f}:packages
+++Projects
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:projects
+i:{3a15cfe7-5db8-4154-b55e-f96cb5a90744}:projects
+i:{26f9c9d0-6e18-43e7-ab8d-ce7d38c3392f}:projects
+++Common
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:d:\projects\.net\socialmediaclean\application\common\
+i:{6a3b375b-eeb3-4ecb-a5b3-154c1c4e4522}:d:\projects\.net\socialmediaclean\domain\common\
+++Behaviors
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:d:\projects\.net\socialmediaclean\application\common\behaviors\
+++AuthorizationBehaviour.cs
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:d:\projects\.net\socialmediaclean\application\common\behaviors\authorizationbehaviour.cs
+++UnhandledExceptionBehaviour.cs
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:d:\projects\.net\socialmediaclean\application\common\behaviors\unhandledexceptionbehaviour.cs
+++ValidationBehaviour.cs
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:d:\projects\.net\socialmediaclean\application\common\behaviors\validationbehaviour.cs
+++Enums
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:d:\projects\.net\socialmediaclean\application\common\enums\
+++ResultCodeEnum.cs
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:d:\projects\.net\socialmediaclean\application\common\enums\resultcodeenum.cs
+++Exceptions
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:d:\projects\.net\socialmediaclean\application\common\exceptions\
+++ForbiddenAccessException.cs
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:d:\projects\.net\socialmediaclean\application\common\exceptions\forbiddenaccessexception.cs
+++ValidationException.cs
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:d:\projects\.net\socialmediaclean\application\common\exceptions\validationexception.cs
+++Interfaces
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:d:\projects\.net\socialmediaclean\application\common\interfaces\
+++ICurrentUserService.cs
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:d:\projects\.net\socialmediaclean\application\common\interfaces\icurrentuserservice.cs
+++IIdentityService.cs
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:d:\projects\.net\socialmediaclean\application\common\interfaces\iidentityservice.cs
+++ISocialMediaCleanContext.cs
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:d:\projects\.net\socialmediaclean\application\common\interfaces\isocialmediacleancontext.cs
+++Mapping
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:d:\projects\.net\socialmediaclean\application\common\mapping\
+++IdentityResultMapping.cs
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:d:\projects\.net\socialmediaclean\application\common\mapping\identityresultmapping.cs
+++UserMapping.cs
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:d:\projects\.net\socialmediaclean\application\common\mapping\usermapping.cs
+++Models
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:d:\projects\.net\socialmediaclean\application\common\models\
+++Result.cs
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:d:\projects\.net\socialmediaclean\application\common\models\result.cs
+++Contracts
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:d:\projects\.net\socialmediaclean\application\contracts\
+++Commands
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:d:\projects\.net\socialmediaclean\application\contracts\commands\
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:d:\projects\.net\socialmediaclean\application\conversations\commands\
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:d:\projects\.net\socialmediaclean\application\message\commands\
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:d:\projects\.net\socialmediaclean\application\users\commands\
+++Queries
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:d:\projects\.net\socialmediaclean\application\contracts\queries\
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:d:\projects\.net\socialmediaclean\application\conversations\queries\
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:d:\projects\.net\socialmediaclean\application\message\queries\
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:d:\projects\.net\socialmediaclean\application\users\queries\
+++Conversations
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:d:\projects\.net\socialmediaclean\application\conversations\
+++Message
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:d:\projects\.net\socialmediaclean\application\message\
+++Security
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:d:\projects\.net\socialmediaclean\application\security\
+++AuthorizeAttribute.cs
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:d:\projects\.net\socialmediaclean\application\security\authorizeattribute.cs
+++Users
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:d:\projects\.net\socialmediaclean\application\users\
+++CreateUser
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:d:\projects\.net\socialmediaclean\application\users\commands\createuser\
+++CreateUserCommandHandler.cs
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:d:\projects\.net\socialmediaclean\application\users\commands\createuser\createusercommandhandler.cs
+++CreateUserCommandRecord.cs
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:d:\projects\.net\socialmediaclean\application\users\commands\createuser\createusercommandrecord.cs
+++CreateUserCommandValidation.cs
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:d:\projects\.net\socialmediaclean\application\users\commands\createuser\createusercommandvalidation.cs
+++SearchUser
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:d:\projects\.net\socialmediaclean\application\users\queries\searchuser\
+++SearchUserHandler.cs
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:d:\projects\.net\socialmediaclean\application\users\queries\searchuser\searchuserhandler.cs
+++SearchUserRecord.cs
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:d:\projects\.net\socialmediaclean\application\users\queries\searchuser\searchuserrecord.cs
+++DependencyInjection.cs
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:d:\projects\.net\socialmediaclean\application\dependencyinjection.cs
+i:{3a15cfe7-5db8-4154-b55e-f96cb5a90744}:d:\projects\.net\socialmediaclean\socialmediaclean.infrastructure\dependencyinjection.cs
+i:{26f9c9d0-6e18-43e7-ab8d-ce7d38c3392f}:d:\projects\.net\socialmediaclean\socialmediaclean.presentation\dependencyinjection.cs
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:c:\program files\dotnet\sdk\6.0.408\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{6a3b375b-eeb3-4ecb-a5b3-154c1c4e4522}:c:\program files\dotnet\sdk\6.0.408\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{3a15cfe7-5db8-4154-b55e-f96cb5a90744}:c:\program files\dotnet\sdk\6.0.408\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{26f9c9d0-6e18-43e7-ab8d-ce7d38c3392f}:c:\program files\dotnet\sdk\6.0.408\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:c:\program files\dotnet\sdk\6.0.408\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{6a3b375b-eeb3-4ecb-a5b3-154c1c4e4522}:c:\program files\dotnet\sdk\6.0.408\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{3a15cfe7-5db8-4154-b55e-f96cb5a90744}:c:\program files\dotnet\sdk\6.0.408\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{26f9c9d0-6e18-43e7-ab8d-ce7d38c3392f}:c:\program files\dotnet\sdk\6.0.408\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:c:\users\mm\.nuget\packages\microsoft.entityframeworkcore.analyzers\7.0.8\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{6a3b375b-eeb3-4ecb-a5b3-154c1c4e4522}:c:\users\mm\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.19\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{3a15cfe7-5db8-4154-b55e-f96cb5a90744}:c:\users\mm\.nuget\packages\microsoft.entityframeworkcore.analyzers\7.0.8\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{26f9c9d0-6e18-43e7-ab8d-ce7d38c3392f}:c:\users\mm\.nuget\packages\microsoft.entityframeworkcore.analyzers\7.0.8\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:c:\users\mm\.nuget\packages\microsoft.extensions.logging.abstractions\7.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{6a3b375b-eeb3-4ecb-a5b3-154c1c4e4522}:c:\users\mm\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{3a15cfe7-5db8-4154-b55e-f96cb5a90744}:c:\users\mm\.nuget\packages\microsoft.extensions.logging.abstractions\7.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{26f9c9d0-6e18-43e7-ab8d-ce7d38c3392f}:c:\users\mm\.nuget\packages\microsoft.extensions.logging.abstractions\7.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++System.Text.Json.SourceGeneration
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.16\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{6a3b375b-eeb3-4ecb-a5b3-154c1c4e4522}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.16\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{3a15cfe7-5db8-4154-b55e-f96cb5a90744}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.16\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{26f9c9d0-6e18-43e7-ab8d-ce7d38c3392f}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.16\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:d:\projects\.net\socialmediaclean\application\microsoft.netcore.app
+i:{6a3b375b-eeb3-4ecb-a5b3-154c1c4e4522}:d:\projects\.net\socialmediaclean\domain\microsoft.netcore.app
+i:{3a15cfe7-5db8-4154-b55e-f96cb5a90744}:d:\projects\.net\socialmediaclean\socialmediaclean.infrastructure\microsoft.netcore.app
+i:{26f9c9d0-6e18-43e7-ab8d-ce7d38c3392f}:d:\projects\.net\socialmediaclean\socialmediaclean.presentation\microsoft.netcore.app
+++FluentValidation (11.5.2)
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:>385
+++FluentValidation.DependencyInjectionExtensions (11.5.2)
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:>386
+i:{26f9c9d0-6e18-43e7-ab8d-ce7d38c3392f}:>687
+++MediatR (12.0.1)
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:>384
+i:{26f9c9d0-6e18-43e7-ab8d-ce7d38c3392f}:>381
+++MediatR.Extensions.Microsoft.DependencyInjection (11.0.0)
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:>614
+++Microsoft.EntityFrameworkCore (7.0.8)
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:>326
+i:{3a15cfe7-5db8-4154-b55e-f96cb5a90744}:>317
+i:{26f9c9d0-6e18-43e7-ab8d-ce7d38c3392f}:>813
+++SocialMediaClean.Domain
+i:{1dc64ab5-aa1d-4c05-b9f2-a3ffdb4156fe}:d:\projects\.net\socialmediaclean\domain\bin\debug\net6.0\socialmediaclean.domain.dll
+i:{00000000-0000-0000-0000-000000000000}:SocialMediaClean.Domain
+++Entities
+i:{6a3b375b-eeb3-4ecb-a5b3-154c1c4e4522}:d:\projects\.net\socialmediaclean\domain\entities\
+++Contacts.cs
+i:{6a3b375b-eeb3-4ecb-a5b3-154c1c4e4522}:d:\projects\.net\socialmediaclean\domain\entities\contacts.cs
+++Conversations.cs
+i:{6a3b375b-eeb3-4ecb-a5b3-154c1c4e4522}:d:\projects\.net\socialmediaclean\domain\entities\conversations.cs
+++Message.cs
+i:{6a3b375b-eeb3-4ecb-a5b3-154c1c4e4522}:d:\projects\.net\socialmediaclean\domain\entities\message.cs
+++Participants.cs
+i:{6a3b375b-eeb3-4ecb-a5b3-154c1c4e4522}:d:\projects\.net\socialmediaclean\domain\entities\participants.cs
+++User.cs
+i:{6a3b375b-eeb3-4ecb-a5b3-154c1c4e4522}:d:\projects\.net\socialmediaclean\domain\entities\user.cs
+++GlobalUsing.cs
+i:{6a3b375b-eeb3-4ecb-a5b3-154c1c4e4522}:d:\projects\.net\socialmediaclean\domain\globalusing.cs
+++BaseEntity.cs
+i:{6a3b375b-eeb3-4ecb-a5b3-154c1c4e4522}:d:\projects\.net\socialmediaclean\domain\common\baseentity.cs
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.19)
+i:{6a3b375b-eeb3-4ecb-a5b3-154c1c4e4522}:>376
+++SocialMediaClean.Infrastructure
+i:{00000000-0000-0000-0000-000000000000}:SocialMediaClean.Infrastructure
+i:{26f9c9d0-6e18-43e7-ab8d-ce7d38c3392f}:d:\projects\.net\socialmediaclean\socialmediaclean.infrastructure\socialmediaclean.infrastructure.csproj
+++Identity
+i:{3a15cfe7-5db8-4154-b55e-f96cb5a90744}:d:\projects\.net\socialmediaclean\socialmediaclean.infrastructure\identity\
+++IdentityService.cs
+i:{3a15cfe7-5db8-4154-b55e-f96cb5a90744}:d:\projects\.net\socialmediaclean\socialmediaclean.infrastructure\identity\identityservice.cs
+++Persistence
+i:{3a15cfe7-5db8-4154-b55e-f96cb5a90744}:d:\projects\.net\socialmediaclean\socialmediaclean.infrastructure\persistence\
+++Context
+i:{3a15cfe7-5db8-4154-b55e-f96cb5a90744}:d:\projects\.net\socialmediaclean\socialmediaclean.infrastructure\persistence\context\
+++SocialMediaCleanContext.cs
+i:{3a15cfe7-5db8-4154-b55e-f96cb5a90744}:d:\projects\.net\socialmediaclean\socialmediaclean.infrastructure\persistence\context\socialmediacleancontext.cs
+++Microsoft.AspNetCore.App.Analyzers
+i:{3a15cfe7-5db8-4154-b55e-f96cb5a90744}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.16\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{26f9c9d0-6e18-43e7-ab8d-ce7d38c3392f}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.16\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{3a15cfe7-5db8-4154-b55e-f96cb5a90744}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.16\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{26f9c9d0-6e18-43e7-ab8d-ce7d38c3392f}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.16\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.ApiAuthorization.IdentityServer (6.0.19)
+i:{3a15cfe7-5db8-4154-b55e-f96cb5a90744}:>401
+++Microsoft.EntityFrameworkCore.Design (7.0.8)
+i:{3a15cfe7-5db8-4154-b55e-f96cb5a90744}:>706
+i:{26f9c9d0-6e18-43e7-ab8d-ce7d38c3392f}:>814
+++Microsoft.EntityFrameworkCore.InMemory (7.0.8)
+i:{3a15cfe7-5db8-4154-b55e-f96cb5a90744}:>843
+++Microsoft.EntityFrameworkCore.SqlServer (7.0.8)
+i:{3a15cfe7-5db8-4154-b55e-f96cb5a90744}:>704
+++Microsoft.EntityFrameworkCore.Tools (7.0.8)
+i:{3a15cfe7-5db8-4154-b55e-f96cb5a90744}:>705
+++Microsoft.Extensions.Configuration (7.0.0)
+i:{3a15cfe7-5db8-4154-b55e-f96cb5a90744}:>707
+++SocialMediaClean.Presentation
+i:{00000000-0000-0000-0000-000000000000}:SocialMediaClean.Presentation
+++Connected Services 
+i:{26f9c9d0-6e18-43e7-ab8d-ce7d38c3392f}:>282
+++Properties
+i:{26f9c9d0-6e18-43e7-ab8d-ce7d38c3392f}:d:\projects\.net\socialmediaclean\socialmediaclean.presentation\properties\
+++Controllers
+i:{26f9c9d0-6e18-43e7-ab8d-ce7d38c3392f}:d:\projects\.net\socialmediaclean\socialmediaclean.presentation\controllers\
+++ApiControllerBase.cs
+i:{26f9c9d0-6e18-43e7-ab8d-ce7d38c3392f}:d:\projects\.net\socialmediaclean\socialmediaclean.presentation\controllers\apicontrollerbase.cs
+++UserController.cs
+i:{26f9c9d0-6e18-43e7-ab8d-ce7d38c3392f}:d:\projects\.net\socialmediaclean\socialmediaclean.presentation\controllers\usercontroller.cs
+++Filters
+i:{26f9c9d0-6e18-43e7-ab8d-ce7d38c3392f}:d:\projects\.net\socialmediaclean\socialmediaclean.presentation\filters\
+++ApiExceptionFilterAttribute.cs
+i:{26f9c9d0-6e18-43e7-ab8d-ce7d38c3392f}:d:\projects\.net\socialmediaclean\socialmediaclean.presentation\filters\apiexceptionfilterattribute.cs
+++Service
+i:{26f9c9d0-6e18-43e7-ab8d-ce7d38c3392f}:d:\projects\.net\socialmediaclean\socialmediaclean.presentation\service\
+++CurrentUserService.cs
+i:{26f9c9d0-6e18-43e7-ab8d-ce7d38c3392f}:d:\projects\.net\socialmediaclean\socialmediaclean.presentation\service\currentuserservice.cs
+++appsettings.json
+i:{26f9c9d0-6e18-43e7-ab8d-ce7d38c3392f}:d:\projects\.net\socialmediaclean\socialmediaclean.presentation\appsettings.json
+++Program.cs
+i:{26f9c9d0-6e18-43e7-ab8d-ce7d38c3392f}:d:\projects\.net\socialmediaclean\socialmediaclean.presentation\program.cs
+++No service dependencies discovered
+i:{26f9c9d0-6e18-43e7-ab8d-ce7d38c3392f}:>283
+++launchSettings.json
+i:{26f9c9d0-6e18-43e7-ab8d-ce7d38c3392f}:d:\projects\.net\socialmediaclean\socialmediaclean.presentation\properties\launchsettings.json
+++Microsoft.AspNetCore.Analyzers
+i:{26f9c9d0-6e18-43e7-ab8d-ce7d38c3392f}:c:\program files\dotnet\sdk\6.0.408\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{26f9c9d0-6e18-43e7-ab8d-ce7d38c3392f}:c:\program files\dotnet\sdk\6.0.408\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{26f9c9d0-6e18-43e7-ab8d-ce7d38c3392f}:c:\program files\dotnet\sdk\6.0.408\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{26f9c9d0-6e18-43e7-ab8d-ce7d38c3392f}:c:\program files\dotnet\sdk\6.0.408\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{26f9c9d0-6e18-43e7-ab8d-ce7d38c3392f}:c:\program files\dotnet\sdk\6.0.408\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.App
+i:{26f9c9d0-6e18-43e7-ab8d-ce7d38c3392f}:d:\projects\.net\socialmediaclean\socialmediaclean.presentation\microsoft.aspnetcore.app
+++FluentValidation.AspNetCore (11.3.0)
+i:{26f9c9d0-6e18-43e7-ab8d-ce7d38c3392f}:>686
+++Swashbuckle.AspNetCore (6.2.3)
+i:{26f9c9d0-6e18-43e7-ab8d-ce7d38c3392f}:>310
+++NewFolder
+++Migrations
+i:{3a15cfe7-5db8-4154-b55e-f96cb5a90744}:d:\projects\.net\socialmediaclean\socialmediaclean.infrastructure\persistence\migrations\
+++20230626075518_FirstMigration.cs
+i:{3a15cfe7-5db8-4154-b55e-f96cb5a90744}:d:\projects\.net\socialmediaclean\socialmediaclean.infrastructure\persistence\migrations\20230626075518_firstmigration.cs
+++20230626075518_FirstMigration.Designer.cs
+i:{3a15cfe7-5db8-4154-b55e-f96cb5a90744}:d:\projects\.net\socialmediaclean\socialmediaclean.infrastructure\persistence\migrations\20230626075518_firstmigration.designer.cs
+++SocialMediaCleanContextModelSnapshot.cs
+i:{3a15cfe7-5db8-4154-b55e-f96cb5a90744}:d:\projects\.net\socialmediaclean\socialmediaclean.infrastructure\persistence\migrations\socialmediacleancontextmodelsnapshot.cs
